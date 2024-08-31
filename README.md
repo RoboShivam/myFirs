@@ -1,1 +1,2 @@
-# myFirs
+# myFirst project
+Author Shivam
